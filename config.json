@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderfalculate",
+        "uuid": 27200180,
+        "checksum": "zka4wi"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
